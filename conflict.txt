@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Final resolved content after merge
-=======
-Final resolved content after merge
->>>>>>> feature-branch
