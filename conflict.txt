@@ -1,1 +1,2 @@
 Final resolved content after merge
+cherry-pick change 1
